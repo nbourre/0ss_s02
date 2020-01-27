@@ -3,6 +3,9 @@ using System.Collections.Generic;
 
 namespace ex_01
 {
+    /// <summary>
+    /// Exemple de l'héritage avec le polymorphisme par héritage
+    /// </summary>
     class Program
     {
         static void Turning(Vehicle v)
